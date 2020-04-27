@@ -1,0 +1,8 @@
+{
+  "name": "ionicPlay1App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "8d527ab7"
+}
